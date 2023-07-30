@@ -6,3 +6,10 @@ It's a Bet Simulator,for JUST-DICE.com,maded by Jack_Sparrow(3697141) ,which can
 3) Play and won ! Keep up !
   P.S. Don't forget to tip me,if it helps :) My ID #3697141
 Best wishes, Jack_Sparrow (3697141) !
+# Example
+After running this script,add that in console :
+function dobet() 
+  {
+  $("#sim_hi").click();
+  }
+dobet();
